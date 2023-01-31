@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/kgcoro/asynchronism-course#readme",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
